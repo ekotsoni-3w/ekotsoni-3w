@@ -7,16 +7,23 @@ I combine a strong foundation in computer science with experience in teaching pr
 **About Me**
 
 🎓 BSc in Computer Science with Applications in Biomedicine
+
 💻 Full Stack Development Specialisation
+
 👩‍🏫 Computer Science teacher in public secondary education
+
 🤖 Educational Robotics & Programming Instructor
+
 🌱 Currently strengthening my skills in clean code, application security, testing, deployment, and GitHub workflows
 
 **Technologies I Have Worked With**
 
 Frontend: HTML, CSS, JavaScript, React, Angular
+
 Backend: Python, Django, PHP
+
 Databases: SQL, MySQL, PostgreSQL, MongoDB
+
 CMS: WordPress
 
 **Featured Project**
