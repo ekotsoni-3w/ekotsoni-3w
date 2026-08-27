@@ -28,19 +28,22 @@ CMS: WordPress
 
 **Featured Projects**
 
-🎮 Emoji Mouse Speed Game
+Emoji Mouse Speed Game
+-----------------------
 
 A browser-based mini-game where players collect points by moving the mouse inside the game area before the countdown ends. It includes a PHP and MySQL backend for securely storing scores.
 
 Built with: HTML, CSS, JavaScript, PHP, MySQL, Fetch API
 
-🛍️ Angular eShop Demo
+Angular eShop Demo
+------------------
 
 A responsive e-commerce frontend that allows users to browse products and interact with a modern shopping interface. Developed to practise Angular architecture, reusable components and frontend application design.
 
 Built with: Angular, TypeScript, HTML, CSS
 
-✅ TaskFlow
+TaskFlow
+---------
 
 A modern task-management application for creating, organising, completing and filtering daily tasks. Designed with a clean, responsive interface and reusable Angular components.
 
