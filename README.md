@@ -1,62 +1,77 @@
-Hi, I'm Eleftheria
+# Eleftheria Kotsoni
 
-Junior Full Stack Web Developer with a background in Computer Science Education
+## Software Developer and Computer Science Educator
 
-I combine a strong foundation in computer science with experience in teaching programming and educational robotics. I am now focused on building practical, user-friendly web applications and developing a professional portfolio through complete, real-world projects.
+I design and build practical, user-focused applications with an emphasis on clear structure, reliable data handling, responsive interfaces, and maintainable code.
 
-**About Me**
+My background combines software development with substantial experience teaching computer science, programming, and educational robotics. This has strengthened my ability to analyse complex requirements, explain technical decisions clearly, and develop solutions around real user needs.
 
-🎓 BSc in Computer Science with Applications in Biomedicine
+## Technical profile
 
-💻 Full Stack Development Specialisation
+| Area | Technologies and practices |
+| --- | --- |
+| Frontend | Angular, React, TypeScript, JavaScript, HTML, CSS, responsive design |
+| Backend | Node.js, Express, Python, Django, PHP |
+| Data | MongoDB, Mongoose, SQLite, MySQL, PostgreSQL, SQL |
+| Quality | Automated testing, defensive validation, accessibility, technical documentation |
+| Delivery | Git, GitHub Actions, CI/CD, GitHub Pages |
+| Additional | REST APIs, local-first persistence, WordPress |
 
-👩‍🏫 Computer Science teacher in public secondary education
+## Selected projects
 
-🤖 Educational Robotics & Programming Instructor
+### [Life Tracker](https://github.com/ekotsoni-3w/life-tracker-showcase)
 
-🌱 Currently strengthening my skills in clean code, application security, testing, deployment, and GitHub workflows
+A full-stack personal organisation platform that connects daily planning, habits, education, work, budgeting, nutrition, and personal journals in one workspace.
 
-**Technologies I Have Worked With**
+Key engineering work includes centralized task aggregation without data duplication, guest and account storage modes, revision-aware synchronization, defensive persistence boundaries, authentication flows, and GridFS-backed file handling.
 
-Frontend: HTML, CSS, JavaScript, React, Angular
+**Stack:** React, React Router, Node.js, Express, MongoDB, Mongoose, GridFS, Playwright
 
-Backend: Python, Django, PHP
+The source code is private. The public showcase includes a product demo, real application screenshots, architecture, technical decisions, and testing notes.
 
-Databases: SQL, MySQL, PostgreSQL, MongoDB
+### [Angular eShop](https://github.com/ekotsoni-3w/angular-eshop-demo)
 
-CMS: WordPress
+A responsive e-commerce frontend with a complete browse-to-cart flow, reusable typed product data, combined search and filtering, product-detail routes, persistent cart state, quantity controls, and defensive local-storage handling.
 
-**Featured Projects**
+**Stack:** Angular 21, TypeScript, Angular Signals, Vitest, GitHub Actions
 
-Emoji Mouse Speed Game
------------------------
+**Verification:** 36 automated tests and a successful production build
 
-A browser-based mini-game where players collect points by moving the mouse inside the game area before the countdown ends. It includes a PHP and MySQL backend for securely storing scores.
+[View the live application](https://ekotsoni-3w.github.io/angular-eshop-demo/)
 
-Built with: HTML, CSS, JavaScript, PHP, MySQL, Fetch API
+### [Personal Library Catalog](https://github.com/ekotsoni-3w/personal-library-catalog)
 
-Angular eShop Demo
-------------------
+A Python command-line application for cataloguing books by ISBN, retrieving metadata from the Google Books API, tracking reading progress, and generating statistics.
 
-A responsive e-commerce frontend that allows users to browse products and interact with a modern shopping interface. Developed to practise Angular architecture, reusable components and frontend application design.
+The application uses a normalized SQLite schema, equivalent ISBN detection, parameterized queries, transactional writes, schema migration support, and offline test doubles for external API behavior.
 
-Built with: Angular, TypeScript, HTML, CSS
+**Stack:** Python, SQLite, Google Books API, Requests, Matplotlib, unittest
 
-TaskFlow
----------
+**Verification:** 28 automated tests using isolated temporary databases
 
-A modern task-management application for creating, organising, completing and filtering daily tasks. Designed with a clean, responsive interface and reusable Angular components.
+### [TaskFlow](https://github.com/ekotsoni-3w/angular-todo-app)
 
-Built with: Angular, TypeScript, HTML, CSS
+A responsive task-management application with priorities, due dates, search, filters, completion statistics, overdue-state handling, browser persistence, accessibility support, and automated deployment.
 
-**Current Focus**
+**Stack:** Angular 21, TypeScript, Angular Signals, Vitest, GitHub Actions
 
-Building complete full-stack web applications
+[View the live application](https://ekotsoni-3w.github.io/angular-todo-app/)
 
-Improving code structure, security, testing, and documentation
+## Professional background
 
-Learning through projects that solve real user problems
+- BSc in Computer Science with Applications in Biomedicine
+- Full Stack Development Specialisation
+- Computer Science educator in public secondary education
+- Experience teaching programming and educational robotics
+- Strong practice in communicating technical concepts to different audiences
 
-Preparing for a professional role in web development
+## Current engineering focus
 
-- Thanks for visiting my profile. More projects are on the way as I continue building, learning, and improving.
+- Building complete applications around real workflows and user needs
+- Strengthening application architecture, testing, security, and deployment practices
+- Designing reliable client-side persistence and full-stack data flows
+- Producing clear technical documentation and portfolio-ready project presentations
+
+## Contact
+
+For professional opportunities or technical discussions, you can reach me through my [GitHub profile](https://github.com/ekotsoni-3w).
