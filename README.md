@@ -1,6 +1,6 @@
 # Eleftheria Kotsoni
 
-## Software Developer and Computer Science Educator
+## Full Stack Developer and Computer Science Educator
 
 I design and build practical, user-focused applications with an emphasis on clear structure, reliable data handling, responsive interfaces, and maintainable code.
 
